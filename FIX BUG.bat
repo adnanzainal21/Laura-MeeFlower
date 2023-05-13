@@ -1,0 +1,1 @@
+scrcpy --force-adb-forward -m1024 -b20m --no-control --render-expired-frames --prefer-text

@@ -1,0 +1,1 @@
+scrcpy -m1920 -b25m --no-control --render-expired-frames --prefer-text
